@@ -74,8 +74,8 @@ CSV Data Config
 
 Git & GitHub for version control
 
-🧑‍💻 Author
-
-Amit Nag
-📍 Bangladesh
-💼 QA engineer| QA Enthusiast | Founder of CyberPulse Innovations
+## 👨‍💻 Author
+**Amit Nag**  
+📍 Bangladesh  
+💼 *Software QA & Test Enthusiast*  
+🔗 [GitHub Profile](https://github.com/amit96nag)
